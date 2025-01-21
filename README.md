@@ -29,7 +29,7 @@
 - **Logical Functions:**  
   - `IF()`, `IFS()`, `AND()`, `OR()`, `NOT()`
 - **Text Functions:**  
-  - `CONCAT()`, `TEXT()`, `LEFT()`, `RIGHT()`, `MID()`, `TRIM()`, `LEN()`, `SUBSTITUTE()`
+  - `CONCAT()`, `TEXT()`, `LEFT()`, `RIGHT()`, `MID()`, `TRIM()`, `LEN()`, `SUBSTITUTE()`,`TEXTJOIN()`
 - **Date Functions:**  
   - `TODAY()`, `NOW()`, `DAY()`, `MONTH()`, `YEAR()`, `EOMONTH()`
 
@@ -43,7 +43,7 @@
 - `VLOOKUP()`, `HLOOKUP()`: Search for a specific value in a data table  
 - `INDEX-MATCH()`: Flexible data search solution  
 - **ARRAY Functions:**  
-  - `UNIQUE()`, `SORT()`, `FILTER()`, `SEQUENCE()`, `RANDARRAY()`, `CHOOSE()`
+  - `UNIQUE()`, `SORT()`, `FILTER()`, `SEQUENCE()`, `RANDARRAY()`, `CHOOSE()`,`GROUP BY()`,`PIVOTBY BY()`
 
 ---
 
